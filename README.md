@@ -1,2 +1,2 @@
 # TwitterBBB
-Cria uma nuvem de palavras com os participantes mais citados no Twitter (por meio de uma #)
+Nuvem de palavras com os participantes do BBB mais citados no Twitter por meio de uma #BBB21
